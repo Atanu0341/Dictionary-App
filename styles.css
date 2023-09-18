@@ -62,7 +62,6 @@ main {
 
 #search-button:hover {
     background-color: #005baa;
-    transform: translateY(-50%) scale(1.05);
 }
 
 #results {
